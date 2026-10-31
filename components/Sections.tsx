@@ -635,7 +635,7 @@ export function EducationSection() {
       description: t('education.1.desc'),
       image: '/projects/wisuda-profesi.jpg',
       imagePos: '50% 40%',
-      ratio: 1600 / 2400, // tinggi bingkai mengikuti rasio foto
+      ratio: 1280 / 854, // tinggi bingkai mengikuti rasio foto
       imageTag: t('education.1.tag'),
       imageCaption: t('education.1.caption'),
       highlights: [
